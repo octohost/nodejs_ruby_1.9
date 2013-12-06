@@ -1,7 +1,7 @@
 nodejs and Ruby 1.9
 ======
 
-Base [Node.js](http://nodejs.org/) and Ruby 1.9.3 container for octohost.
+Base [Node.js](http://nodejs.org/) 0.10.x and Ruby 1.9 container for octohost.
 
 To use an already built container:
 
